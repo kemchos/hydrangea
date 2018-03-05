@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="pattern-0" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
+      <path d="M 0 0 L 50 0 L 50 100 L 0 100 Z" style="fill: black;"/>
+    </pattern>
+  </defs>
+  <path d="M 77.911 142.157 C 77.911 142.157 77.911 142.157 77.911 142.157 Z" style="fill: none; stroke: black;"/>
+  <path d="M 77.911 142.157" style="fill: none; stroke: black;"/>
+  <path style="stroke: black; fill: none;"/>
+  <path d="M 151.335 96.267 L 151.335 96.267 Z" style="stroke: black; fill: none; stroke-width: 36; stroke-opacity: 0.96; stroke-linejoin: round;"/>
+  <path style="stroke: black; fill: none; stroke-width: 36; stroke-opacity: 0.96; stroke-linejoin: round;"/>
+  <path style="stroke: black; fill: none; stroke-width: 36; stroke-opacity: 0.96; stroke-linejoin: round;"/>
+  <path style="stroke: black; fill: none; stroke-width: 36; stroke-opacity: 0.96; stroke-linejoin: round;"/>
+  <path d="M 116.918 69.213 L 371.61 69.213 L 372.757 459.467 L 248.853 356.557 L 119.212 454.121 L 116.918 69.213 Z" style="fill: none; stroke-width: 36; stroke-opacity: 0.96; stroke-linejoin: round; stroke: rgb(25, 25, 25);"/>
+</svg>

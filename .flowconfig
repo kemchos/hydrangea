@@ -1,0 +1,13 @@
+[ignore]
+.*/node_modules/.*
+.*/.vscode/.*
+.*/coverage/.*
+.*/public/.*
+
+[include]
+
+[libs]
+./node_modules/mobx/lib/mobx.js.flow
+./node_modules/flow-interfaces-chrome/interfaces/
+
+[options]
